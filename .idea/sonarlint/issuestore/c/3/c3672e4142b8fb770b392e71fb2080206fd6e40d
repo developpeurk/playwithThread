@@ -1,0 +1,24 @@
+
+u
+java:S1104
+"XMake MIN_PRIORITY a static final constant or non-public and provide accessors if needed.(é¼ÀÏ8¨šÒË½1
+{
+java:S1104"YMake NORM_PRIORITY a static final constant or non-public and provide accessors if needed.(‰ºüøÿÿÿÿ8¨šÒË½1
+u
+java:S1104"XMake MAX_PRIORITY a static final constant or non-public and provide accessors if needed.(ï¯¨8¨šÒË½1
+O
+java:S1444
+"2Make this "public static MIN_PRIORITY" field final(é¼ÀÏ8©šÒË½1
+U
+java:S1444"3Make this "public static NORM_PRIORITY" field final(‰ºüøÿÿÿÿ8©šÒË½1
+O
+java:S1444"2Make this "public static MAX_PRIORITY" field final(ï¯¨8©šÒË½1
+t
+java:S3008
+"WRename this field "MIN_PRIORITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¼ÀÏ8®šÒË½1
+z
+java:S3008"XRename this field "NORM_PRIORITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ºüøÿÿÿÿ8®šÒË½1
+t
+java:S3008"WRename this field "MAX_PRIORITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¯¨8®šÒË½1
+G	java:S106"+Replace this use of System.out by a logger.(Í›‹Ñ8¢–ĞË½1
+L	java:S106"+Replace this use of System.out by a logger.(Æû™şşÿÿÿÿ8¢–ĞË½1

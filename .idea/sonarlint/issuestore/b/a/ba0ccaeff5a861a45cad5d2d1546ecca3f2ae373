@@ -1,0 +1,23 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ßï«ûÿÿÿÿ8¹ÁÔõ½1
+l
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­§óùÿÿÿÿ8ÂÁÔõ½1
+O
+java:S1113"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ8ÃÁÔõ½1
+H
+java:S1174"&Make this finalize() method protected.(­§óùÿÿÿÿ8ÄÁÔõ½1
+L	java:S106"+Replace this use of System.out by a logger.(ùúÍüÿÿÿÿ8ÅÁÔõ½1
+X
+java:S1854"6Remove this useless assignment to local variable "m2".(”ñø´ùÿÿÿÿ8¥ò×õ½1
+S
+java:S1854"6Remove this useless assignment to local variable "m1".(¤Ú˜ä8Æ§Øõ½1
+X
+java:S1854	"6Remove this useless assignment to local variable "m2".(¨œµ«øÿÿÿÿ8éÓÖõ½1
+S
+java:S1854"6Remove this useless assignment to local variable "m1".(Ø‰á8¹şÖõ½1
+D
+java:S1481"'Remove this unused "m1" local variable.(Ø‰á8êÓÖõ½1
+I
+java:S1481	"'Remove this unused "m2" local variable.(¨œµ«øÿÿÿÿ8Â—×õ½1
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8š‡Ùõ½1
